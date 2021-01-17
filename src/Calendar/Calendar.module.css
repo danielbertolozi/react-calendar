@@ -1,0 +1,8 @@
+.container {
+    background-color: #FDFDFD;
+    border-color: #FAFAFA;
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    display: flex;
+}
